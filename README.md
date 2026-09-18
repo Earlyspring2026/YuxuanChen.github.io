@@ -22,12 +22,26 @@
     My research focuses on labor economics, public economics,
     household behavior, population issues in China and Japan.
   </p>
-
-  <h2>Research</h2>
+  
+  <h2>Educational Background</h2>
+  <p>
+    Apr 2023-April 2027(Expected)   Ph.D. in Economics, from Graduate School of Economics, in The University of Osaka, Japan
+  </p>
 
   <p>
+    Oct 2021-Mar 2023    Master of International Public Policy, from Graduate School of Business Science, Humanities and Social Sciences, in The University of Tsukuba, Japan
+  </p>
+  
+  <p>
+    Sept 2016-July 2020   Bachelor of Arts, from Schools of English for International Business, in Guangdong University of Foreign Studies, China
+  </p>
+  
+  </p>
+  
+  <h2>Research</h2>
+  <p>
     <strong>Intergenerational Spillover Effects of Pension Receipt on Marriage: Evidence from China</strong><br>
-    Working Paper
+    Working Paper, Economics Analysis and Policy (R&R)
   </p>
 
   <p>
@@ -37,12 +51,12 @@
   
   <p>
     <strong>Labor Demand Shock and Employment Vulnerability in Japan’s Dual Labor Market</strong><br>
-    Working Paper
+    Working Paper, Empirical Economics (Under Review)
   </p>
 
   <p>
     <strong>Intergenerational Spillover Effects of Pension on Fertility: Evidence from China</strong><br>
-    Working Paper
+    Working Paper, China & World Economy (Under Review)
   </p>
 
   <h2>Other Academic Activities</h2>
