@@ -1,4 +1,4 @@
-# YuxuanChen.github.io
+# YuxuanChen
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,8 +7,6 @@
   <title>Yuxuan Chen</title>
 </head>
 <body>
-
-  <h1>Yuxuan Chen</h1>
 
   <p>Ph.D. Candidate in Economics, The University of Osaka </p>
 
