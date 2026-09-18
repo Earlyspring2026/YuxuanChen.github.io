@@ -1,4 +1,4 @@
-# YuxuanChen
+# Yuxuan Chen
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,10 +45,37 @@
     Working Paper
   </p>
 
+  <h2>Other Academic Activities</h2>
+
+  <p>
+    <strong>Japanese Economic Association Autumn Meeting 2025 (Hirosaki, Aomori) ,</strong><br>
+    Poster Presentation
+  </p>
+
+  <p>
+    <strong>Japanese Economic Association Spring Meeting 2026 (Osaka)</strong><br>
+    Poster Presentation
+  </p>
+  
+  <p>
+    <strong>Japanese Economic Association Autumn Meeting 2026 (Tokyo)</strong><br>
+    Poster Presentation
+  </p>
+
+  <p>
+    <strong>Reviewer for Journals</strong><br>
+    Journal of Asian Economics
+  </p>
+
   <h2>Teaching Interests</h2>
   <p>
     Microeconomics, Econometrics, Public Economics,
     Labor Economics, Statistics, and Data Analysis
+  </p>
+  
+  <h2>Self-Assessment</h2>
+  <p>
+    I consider myself a researcher with multiple educational backgrounds not only in Business and Economics. I always manage to perfectly and sufficiently finish the assigned tasks and thus gradually become a reliable colleague and team member in various situations. 
   </p>
 
   <h2>CV</h2>
