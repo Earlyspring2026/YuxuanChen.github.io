@@ -31,12 +31,12 @@
   </p>
 
   <p>
-    <strong>Employment Vulnerability under Pandemic Shocks: Evidence from Japan's Dual Labor Market</strong><br>
+    <strong>Fiscal Compensation and Income Resilience under an External Shock: Evidence from Hubei, China</strong><br>
     Working Paper
   </p>
-
+  
   <p>
-    <strong>Fiscal Compensation and Income Resilience under an External Shock: Evidence from Hubei, China</strong><br>
+    <strong>Labor Demand Shock and Employment Vulnerability in Japan’s Dual Labor Market</strong><br>
     Working Paper
   </p>
 
