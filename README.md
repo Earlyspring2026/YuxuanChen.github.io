@@ -94,11 +94,11 @@
 
   <h2>CV</h2>
   <p>
-    <a href="CV Eng.pdf">Download my CV (English) </a>
+    <a href="CV.pdf">Download my CV (English) </a>
   </p>
   
   <p>
-    <a href="CV Jap.pdf">Download my CV (Japanese) </a>
+    <a href="履歴書.pdf">Download my CV (Japanese) </a>
   </p>
   
   <h2>Contact</h2>
