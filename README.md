@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yuxuan Chen</title>
 </head>
 <body>
 
@@ -21,7 +20,7 @@
   <p>
     I am a Ph.D. candidate in Economics at The University of Osaka.
     My research focuses on labor economics, public economics,
-    household behavior, population issues, and China-Japan comparative analysis.
+    household behavior, population issues in China and Japan.
   </p>
 
   <h2>Research</h2>
